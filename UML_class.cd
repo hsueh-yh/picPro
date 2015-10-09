@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="aImage" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIgABCwAAAAAAAAhBCAMAAAEAAAAAAAhAIAAEAAAAE=</HashCode>
+      <FileName>aImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Feature" Collapsed="true">
+    <Position X="1.5" Y="2" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAEgAEgAAAAAAgAABQAAAAAFCAAgACQQAAAA=</HashCode>
+      <FileName>Feature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HarrisDetector" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAEgAAhAAAAQAAFAAAAAAAAAAAAACCBgAIIACAAAAI=</HashCode>
+      <FileName>HarrisDetector.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_picProClass" Collapsed="true">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gYIIIIAKBslYIloQH6OQQsQA+BWAIEgwgLkIE0bAfEA=</HashCode>
+      <FileName>GeneratedFiles\ui_picpro.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="simpleProcessor" Collapsed="true">
+    <Position X="1.5" Y="3.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>simpleProcessor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
